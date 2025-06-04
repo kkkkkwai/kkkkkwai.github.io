@@ -16,3 +16,7 @@ params:
   homeInfoParams:
     content: >
       Welcome to my place where I'll regularly or occasionally post some of my observations, thoughts or anything. They can be about maps, satallite images, urban planning, architecture, city skylines, trains, or just any of my curiosities. A place for me to keep the records.
+
+caches:
+  images:
+    dir: :cacheDir/images
